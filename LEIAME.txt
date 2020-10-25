@@ -1,0 +1,61 @@
+// Lykos Blocks Module
+// Coded by Samuel Wright (http://www.lykoszine.co.uk)
+// Tradução Português do Brasil: XOOPSBrasil (http://xoops.underpop.com)
+// See readme for more info
+// ------------------------------------------------------------------------- //
+//                XOOPS - PHP Content Management System                      //
+//                       <http://www.xoops.org/>                             //
+// ------------------------------------------------------------------------- //
+//  This program is free software; you can redistribute it and/or modify     //
+//  it under the terms of the GNU General Public License as published by     //
+//  the Free Software Foundation; either version 2 of the License, or        //
+//  (at your option) any later version.                                      //
+//                                                                           //
+//  This program is distributed in the hope that it will be useful,          //
+//  but WITHOUT ANY WARRANTY; without even the implied warranty of           //
+//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the            //
+//  GNU General Public License for more details.                             //
+//                                                                           //
+//  You should have received a copy of the GNU General Public License        //
+//  along with this program; if not, write to the Free Software              //
+//  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA //
+// ------------------------------------------------------------------------- //
+
+Módule Lykos Blocks
+
+Contém os seguintes blocos:
+- últimos x artigos em uma dada categoria
+- melhores x artigos em uma dada categoria
+- um bloco com estatísticas do site
+
+Suporte para WFSection 1.01 adicionado
+Bloco "Parceiro Aleatório" foi removido por esta função já estar disponível no código base do XOOPS.
+Renomeou-se 'artigos' para 'notícias', e passou-se a chamar 'wfsections' de artigos.
+Há a questão de os blocos ficarem estranhos quando há menos de dois ítens em cada módulo devido ao uso de plurais ('notícias', etc), mas o módulo foi feito na esperança de que você vai postar alguma coisa no seu site antes torná-lo público ;-)
+
+----==== Requerimento ====----
+
+Xoops 2.* ou mais recente
+
+----==== Instalação ====----
+
+1. Envie a paste contida no zip para a pasta de módulos do Xoops.
+2. Entre no seu site como Administrador, vá até a administração de módulos e instale o Lykos Blocks. Depois você já pode usar os blocos que achar necessário.
+3. O conteúdo de cada bloco é bastante personalizável via templates. Para mudar a forma que as informações são exibidas, altere os arquivos html na pasta templates/blocks/.
+
+----==== Bugs ====----
+
+
+----==== To Do ====----
+
+
+----==== Contato ====----
+Comentários, pedidos, bug, etc podem ser enviados para o suporte XOOPSBrasil:
+http://xoops.underpop.com
+Ou para o autor, em inglês:
+
+Comments, requests, bug reports etc to
+Email: lykos_reviews_module@lykoszine.co.uk
+ICQ: 41995361
+MSN: lykoszine@hotmail.com
+Web: http://www.lykoszine.co.uk
